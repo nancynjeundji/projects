@@ -1,8 +1,8 @@
-package org.boutique.catalogue.services;
+package org.boutique.catalogue.service;
 
 import java.util.Collection;
 import org.boutique.catalogue.dao.ProduitRepository;
-import org.boutique.catalogue.exceptoins.ProduitNotFoundException;
+import org.boutique.catalogue.exception.ProduitNotFoundException;
 import org.boutique.catalogue.model.Produit;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

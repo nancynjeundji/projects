@@ -9,7 +9,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
 
-@SpringBootApplication(scanBasePackages = {"org.boutique.catalogue.controller", "org.boutique.catalogue.services"})
+@SpringBootApplication(scanBasePackages = {"org.boutique.catalogue.controller", "org.boutique.catalogue.service"})
 public class CatalogueApplication implements CommandLineRunner{
 	
 	@Autowired

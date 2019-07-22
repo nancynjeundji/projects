@@ -1,4 +1,4 @@
-package org.boutique.catalogue.exceptoins;
+package org.boutique.catalogue.exception;
 
 public class ProduitNotFoundException extends RuntimeException{
 

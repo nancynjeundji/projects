@@ -1,4 +1,4 @@
-package org.boutique.catalogue.services;
+package org.boutique.catalogue.service;
 
 import org.boutique.catalogue.dao.CommandeProduitRepository;
 import org.boutique.catalogue.model.CommandeProduit;

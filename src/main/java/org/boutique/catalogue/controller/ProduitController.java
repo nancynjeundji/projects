@@ -3,7 +3,7 @@ package org.boutique.catalogue.controller;
 import java.util.Collection;
 
 import org.boutique.catalogue.model.Produit;
-import org.boutique.catalogue.services.ProduitService;
+import org.boutique.catalogue.service.ProduitService;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

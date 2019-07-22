@@ -1,4 +1,4 @@
-package org.boutique.catalogue.services;
+package org.boutique.catalogue.service;
 
 import java.util.Collection;
 
